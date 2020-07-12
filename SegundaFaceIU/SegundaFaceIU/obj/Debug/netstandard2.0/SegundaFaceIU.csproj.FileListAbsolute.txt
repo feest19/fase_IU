@@ -1,0 +1,14 @@
+C:\Users\LAPTOP\source\repos\SegundaFaceIU\SegundaFaceIU\SegundaFaceIU\bin\Debug\netstandard2.0\SegundaFaceIU.deps.json
+C:\Users\LAPTOP\source\repos\SegundaFaceIU\SegundaFaceIU\SegundaFaceIU\bin\Debug\netstandard2.0\SegundaFaceIU.dll
+C:\Users\LAPTOP\source\repos\SegundaFaceIU\SegundaFaceIU\SegundaFaceIU\bin\Debug\netstandard2.0\ref\SegundaFaceIU.dll
+C:\Users\LAPTOP\source\repos\SegundaFaceIU\SegundaFaceIU\SegundaFaceIU\bin\Debug\netstandard2.0\SegundaFaceIU.pdb
+C:\Users\LAPTOP\source\repos\SegundaFaceIU\SegundaFaceIU\SegundaFaceIU\obj\Debug\netstandard2.0\SegundaFaceIU.csprojAssemblyReference.cache
+C:\Users\LAPTOP\source\repos\SegundaFaceIU\SegundaFaceIU\SegundaFaceIU\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\LAPTOP\source\repos\SegundaFaceIU\SegundaFaceIU\SegundaFaceIU\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\LAPTOP\source\repos\SegundaFaceIU\SegundaFaceIU\SegundaFaceIU\obj\Debug\netstandard2.0\SegundaFaceIU.AssemblyInfoInputs.cache
+C:\Users\LAPTOP\source\repos\SegundaFaceIU\SegundaFaceIU\SegundaFaceIU\obj\Debug\netstandard2.0\SegundaFaceIU.AssemblyInfo.cs
+C:\Users\LAPTOP\source\repos\SegundaFaceIU\SegundaFaceIU\SegundaFaceIU\obj\Debug\netstandard2.0\SegundaFaceIU.csproj.CoreCompileInputs.cache
+C:\Users\LAPTOP\source\repos\SegundaFaceIU\SegundaFaceIU\SegundaFaceIU\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\LAPTOP\source\repos\SegundaFaceIU\SegundaFaceIU\SegundaFaceIU\obj\Debug\netstandard2.0\SegundaFaceIU.dll
+C:\Users\LAPTOP\source\repos\SegundaFaceIU\SegundaFaceIU\SegundaFaceIU\obj\Debug\netstandard2.0\ref\SegundaFaceIU.dll
+C:\Users\LAPTOP\source\repos\SegundaFaceIU\SegundaFaceIU\SegundaFaceIU\obj\Debug\netstandard2.0\SegundaFaceIU.pdb

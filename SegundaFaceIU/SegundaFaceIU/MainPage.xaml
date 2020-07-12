@@ -1,0 +1,49 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:d="http://xamarin.com/schemas/2014/forms/design"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+             mc:Ignorable="d"
+             x:Class="SegundaFaceIU.MainPage">
+
+    <StackLayout>
+        <!-- Place new controls here -->
+        <!--<Label Text="Welcome to Xamarin.Forms!" 
+           HorizontalOptions="Center"
+           VerticalOptions="CenterAndExpand" />-->
+
+        <!--/////////////aqui esta la version solo con el Grid/////////////-->
+        <Label Text="Formulario" HorizontalOptions="Center"/>
+
+        <Grid >
+            <Grid.RowDefinitions>
+
+                <RowDefinition Height="auto"/>
+            </Grid.RowDefinitions>
+
+            <Grid.ColumnDefinitions>
+
+                <ColumnDefinition Width="auto"/>
+
+            </Grid.ColumnDefinitions>
+
+            <Label Text="Nombre" Grid.Row="1" Grid.Column="0" VerticalOptions="End"/>
+
+            <Entry Keyboard="Text" Grid.Row="1" Grid.Column="1" BackgroundColor="AliceBlue"/>
+
+            <Label Text="Descripcion del producto" Grid.Row="2" Grid.Column="0" VerticalOptions="End"/>
+
+            <Entry Keyboard="Text" Grid.Row="2" Grid.Column="1" BackgroundColor="AliceBlue"/>
+
+            <Label Text="Direccion" Grid.Row="3" Grid.Column="0" VerticalOptions="End"/>
+
+            <Entry Keyboard="Text" Grid.Row="3" Grid.Column="1" BackgroundColor="AliceBlue"/>
+
+            <Button BackgroundColor="CadetBlue" Text="ENVIAR" Grid.Row="6" Grid.Column="0" Grid.ColumnSpan="2"/>
+
+        </Grid>
+
+
+    </StackLayout>
+
+</ContentPage>
